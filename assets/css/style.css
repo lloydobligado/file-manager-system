@@ -1,0 +1,61 @@
+#bg-img {
+    background-image: url("../images/bg_image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#bg-img1 {
+    background-image: url("../images/bg_image1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#div-center {
+    background-color: #EBE2E2;
+
+}
+
+#btn-lightblue {
+    background-color: #5F9DD7;
+    color: white;
+}
+
+#btn-lightblue:hover {
+    background-color: #4b95da;
+}
+
+#header {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    top: 0;
+    width: 100vw;
+    height: 120px;
+}
+
+#imagebg {
+    height:120px;
+    width: 157px;
+    margin: 30px;
+    background-color: white;
+}
+
+#imagebg img {
+    height:120px;
+    width: 157px;
+}
+
+#header h1 {
+    color: white;
+    text-shadow: -3px -3px 0 #2F2F58, 3px -3px 0 #2F2F58, -3px 3px 0 #2F2F58, 3px 3px 0 #2F2F58;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+#clr- {
+    color: black;
+}
